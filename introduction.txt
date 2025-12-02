@@ -1,4 +1,5 @@
-Brief introduction about myself:
+# Brief Introduction About Myself
 
-Hello! My name is Jana, and I am currently learning GitHub as I begin to explore coding and project management. I enjoy discovering new technologies and sharing my progress online.
-I am excited to complete my project on GitHub and improve my skills by working on various repositories. This file serves as a brief introduction about me.
+Hello! My name is Jana. I am learning GitHub and starting to explore coding and project management. I enjoy learning new technologies and sharing my progress online.
+
+I am excited to complete my first project on GitHub and improve my skills by working on different repositories. This file serves as a small introduction about me.
