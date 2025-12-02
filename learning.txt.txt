@@ -1,1 +1,0 @@
-So far, I have learned how to create a repository on GitHub, add files, commit changes, and submit pull requests. I also learned how to clone a repository locally and push changes back to GitHub.
